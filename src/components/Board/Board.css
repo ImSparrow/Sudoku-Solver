@@ -1,0 +1,17 @@
+.outergrid {
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.grid {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 90%;
+  height: 90%;
+  margin: 5%;
+  display: -webkit-flex;
+  -webkit-flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
+}

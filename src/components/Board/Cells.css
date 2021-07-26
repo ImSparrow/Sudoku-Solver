@@ -1,0 +1,15 @@
+.cell {
+  flex: 0 0 11.11%;
+  height: 60px;
+  margin-bottom: 1px;
+}
+textarea {
+  line-height: 100%;
+  font-size: 50px;
+  font-weight: bold;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  overflow: hidden;
+  resize: none;
+}
